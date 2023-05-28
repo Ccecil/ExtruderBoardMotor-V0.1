@@ -13,3 +13,5 @@ Locking JST connectors for fans and hotend sensor.
 
 
 Assembled units available at https://www.robosprout.com/product/extruderboard-with-harness-assembled/
+
+When I produce this board I use 2oz copper.  I have not tested 1oz yet.
